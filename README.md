@@ -2,7 +2,7 @@
 
 **Software Developer · Creative Technologist · Game & XR Developer**
 
-I build interactive software, games, immersive environments, and stylized 3D art. My projects range from browser-based games and collaborative VR interfaces to game-ready Unity assets and educational iOS applications.
+I'm a computer science master's student at Columbia University and an independent software developer focused on interactive applications, games, immersive environments, and 3D design. My work ranges from browser-based games and collaborative VR interfaces to game-ready Unity assets and educational iOS applications.
 
 ## Featured projects
 
@@ -50,6 +50,21 @@ An iOS learning application focused on recognizing and practicing consonant-vowe
 
 [**View on the App Store**](https://apps.apple.com/ca/app/updraft-phonics/id6785323072)
 
-## More work
+## Columbia University Projects
+
+Selected computer science and software engineering projects developed during my studies at Columbia University.
+
+**The ARchitects — Collaborative 3D User Interfaces**
+
+A team-based Unity project exploring mixed reality, spatial interaction, collaborative construction, and immersive interfaces.
+
+[View project](https://github.com/ds4015/3DUI_final_project)
+
+**Software Engineering — Web Applications & APIs**
+
+Team-based software engineering work involving web interfaces, API integration, and job-matching functionality.
+
+[Web application](https://github.com/ds4015/w4156-app) · [Job-matching API](https://github.com/ds4015/LionHackerzAPI)
+
 
 [Personal portfolio](https://www.dallas-scott.org) · [UpDraft Art](https://updraft.art/) · [All GitHub repositories](https://github.com/ds4015?tab=repositories) · [iOS apps](https://apps.apple.com/ca/developer/dallas-scott/id1798285637)
