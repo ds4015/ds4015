@@ -54,4 +54,4 @@ An iOS learning application focused on recognizing and practicing consonant-vowe
 
 ## More work
 
-[Personal portfolio](https://www.dallas-scott.org) · [UpDraft Art](https://updraft.art/) · [All GitHub repositories](https://github.com/ds4015?tab=repositories) · [iOS apps](https://apps.apple.com/ca/developer/dallas-scott/id1798285637)
+[Personal portfolio](https://www.dallas-scott.org) · [Photography/art](https://dallas-scott.art) · [UpDraft Art](https://updraft.art/) · [All GitHub repositories](https://github.com/ds4015?tab=repositories) · [iOS apps](https://apps.apple.com/ca/developer/dallas-scott/id1798285637)
