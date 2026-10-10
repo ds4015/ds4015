@@ -8,7 +8,7 @@ I create interactive experiences that bring together software engineering, games
 
 ## Featured projects
 
-### 🎮 Patchwork — 3D Browser Game
+### 🎮 Patchwork: 3D Browser Game
 
 A playable, browser-based 3D take on *Patchwork*, featuring an interactive interface and host/join options for multiplayer sessions.
 
@@ -16,7 +16,7 @@ A playable, browser-based 3D take on *Patchwork*, featuring an interactive inter
 
 **[Play Patchwork](https://ds4015.github.io/oxcaml/patchwork_3d.html)** · [View project repository](https://github.com/ds4015/oxcaml)
 
-### 🥽 The ARchitects — Collaborative VR / 3D Interfaces
+### 🥽 The ARchitects: Collaborative VR / 3D Interfaces
 
 A team-built Unity experience exploring shared spatial construction and perspective shifting: create a scene at tabletop scale, then explore it at immersive scale.
 
@@ -26,13 +26,13 @@ Developed as a team project at Columbia University.
 
 [Explore the project and source](https://github.com/ds4015/3DUI_final_project)
 
-### 📱 UpDraft Rx — Medication-Name Learning
+### 📱 UpDraft Rx: Medication-Name Learning
 
 An iOS educational application for learning and practicing medication names through listening, spelling, recognition, and clinical context.
 
 [View UpDraft Rx on the App Store](https://apps.apple.com/ca/app/updraft-rx/id6792164071)
 
-### 🔤 UpDraft Phonics — Early Reading
+### 🔤 UpDraft Phonics: Early Reading
 
 An iOS learning application focused on reading and practicing consonant-vowel-consonant words.
 
